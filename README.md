@@ -1,7 +1,7 @@
 ## libraries
 ```bash
-streamlit - <span style="color: yellow">pip</span> install streamlit
-speedtest - <span style="color: yellow">pip</span> install speedtest-cli
+streamlit - pip install streamlit
+speedtest - pip install speedtest-cli
 ```
 
 ## Run
